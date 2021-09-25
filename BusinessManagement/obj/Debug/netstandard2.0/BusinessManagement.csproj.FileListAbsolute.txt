@@ -1,0 +1,12 @@
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\bin\Debug\netstandard2.0\BusinessManagement.deps.json
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\bin\Debug\netstandard2.0\BusinessManagement.dll
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\bin\Debug\netstandard2.0\BusinessManagement.pdb
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\bin\Debug\netstandard2.0\DataManagement.dll
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\bin\Debug\netstandard2.0\DataManagement.pdb
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\obj\Debug\netstandard2.0\BusinessManagement.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\obj\Debug\netstandard2.0\BusinessManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\obj\Debug\netstandard2.0\BusinessManagement.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\obj\Debug\netstandard2.0\BusinessManagement.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\obj\Debug\netstandard2.0\BusinessManagement.csproj.CopyComplete
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\obj\Debug\netstandard2.0\BusinessManagement.dll
+C:\Users\Ricardo\source\repos\NTierSolution\BusinessManagement\obj\Debug\netstandard2.0\BusinessManagement.pdb

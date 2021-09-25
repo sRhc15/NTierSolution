@@ -1,0 +1,9 @@
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\bin\Debug\netstandard2.0\DataManagement.deps.json
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\bin\Debug\netstandard2.0\DataManagement.dll
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\obj\Debug\netstandard2.0\DataManagement.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\obj\Debug\netstandard2.0\DataManagement.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\obj\Debug\netstandard2.0\DataManagement.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\bin\Debug\netstandard2.0\DataManagement.pdb
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\obj\Debug\netstandard2.0\DataManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\obj\Debug\netstandard2.0\DataManagement.dll
+C:\Users\Ricardo\source\repos\NTierSolution\DataManagement\obj\Debug\netstandard2.0\DataManagement.pdb
